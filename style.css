@@ -359,6 +359,7 @@ position: absolute;
 
 .container-developer .card{
   position: relative;
+  cursor: pointer;
 }
 
 .container-developer .card .face{
